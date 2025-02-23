@@ -1,4 +1,6 @@
- multiple tools, including an AI-driven chatbot, Calendar & To-Do List, Pomodoro Timer, Reminders, Home Control, User Connections, and Eye Comfort Dark Mode, all in one place.
+
+
+The project aims to help students manage their time and tasks effectively with multiple tools, including an AI-driven chatbot, Calendar & To-Do List, Pomodoro Timer, Reminders, Home Control, User Connections, and Eye Comfort Dark Mode, all in one place.
 
 Effective time management is crucial for students to balance academic responsibilities, extracurricular activities, and personal life. Doraemon is designed to address this need by providing a comprehensive suite of tools that promote productivity, organization, and well-being. With the AI chatbot, students can receive personalized assistance and manage their tasks efficiently. The Calendar & To-Do List helps organize tasks and deadlines, while the Pomodoro Timer enhances focus and productivity through structured work sessions.
 
